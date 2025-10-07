@@ -1,0 +1,1 @@
+El proyecto fue subido a github de forma manual primeramente subiendo la landing page descargada sin modificaciones y despues en un nuevo bash subi las modificaciones que habia realizado para que quede como queria
